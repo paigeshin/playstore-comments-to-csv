@@ -28,7 +28,7 @@ async function generateCommentsJSON(bundleId, numOfComments, sort) {
   } else if (sort === "NEWEST") {
     gplaySort = gplay.sort.NEWEST;
   } else if (sort === "RATING") {
-    gplaySort = gplay.sort.NEWEST;
+    gplaySort = gplay.sort.RATING;
   } else {
     gplaySort = gplay.sort.NEWEST;
   }
