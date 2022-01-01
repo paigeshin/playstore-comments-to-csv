@@ -1,16 +1,28 @@
 {
   "name": "playstore-comments-to-csv",
   "version": "1.0.0",
-  "description": "",
+  "description": "play store comments scraper",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "ASO",
+    "Playstore Scraper"
+  ],
+  "author": "paige shin",
   "license": "ISC",
   "dependencies": {
     "csv-writer": "^1.6.0",
     "google-play-scraper": "^8.0.4"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paigeshin/playstore-comments-to-csv.git"
+  },
+  "bugs": {
+    "url": "https://github.com/paigeshin/playstore-comments-to-csv/issues"
+  },
+  "homepage": "https://github.com/paigeshin/playstore-comments-to-csv#readme"
 }
