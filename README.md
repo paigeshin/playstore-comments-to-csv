@@ -7,10 +7,10 @@ npm install playstore-comments-to-csv
 ### Description
 
 - all comments will be collected from app store and generate `csv` files.
-- Two types of collection files.
-  - Helpful
-  - Recent
-  - Rating
+- Three types of collection files.
+  - HELPFULNESS
+  - RATING
+  - NEWEST
 
 ### Usage
 
