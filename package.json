@@ -1,6 +1,6 @@
 {
   "name": "playstore-comments-to-csv",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "play store comments scraper",
   "main": "index.js",
   "scripts": {

@@ -92,10 +92,6 @@ async function collectPlaystoreComments(appName, bundleId, numOfComments) {
   createCSVFile(`./comments/${appName}`, `ratings.csv`, ratingComments);
 }
 
-async function main() {
-  collectPlaystoreComments("AnyApp", "com.mojang.minecraftpe", 10, "RATING");
-}
-
 // arg1 => name of directory which will contain csv files
 // arg2 => app bundle id
 // arg3 => number of comments upto 3000
