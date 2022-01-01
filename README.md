@@ -16,7 +16,7 @@ npm install playstore-comments-to-csv
 
 ```jsx
 const {
-  collectPlayStoreComments,
+  collectPlaystoreComments,
   generateCommentsJSON,
 } = require("playstore-comments-to-csv");
 
